@@ -4,6 +4,8 @@
 
 本古典导聆由古典交流群交流整理形成，每首曲目收录至多9个版本。版本的选取<mark style="color:red;">**纯主观**</mark>，仅凭个人喜好。如您有更佳版本推荐，欢迎讨论\~
 
+网页版链接：[https://hektor1277.gitbook.io/an-incomplete-guide-to-classical-music/](https://hektor1277.gitbook.io/an-incomplete-guide-to-classical-music/)
+
 ### 关于曲目和作曲家不全：
 
 #### 1）暂不收录：由于版本选取依赖交流群讨论，故小众曲目和作曲家可能未被收录（讨论不出值得推荐的版本）
