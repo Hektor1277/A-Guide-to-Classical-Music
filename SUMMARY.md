@@ -1,6 +1,8 @@
 # Table of contents
 
-* [前言](README.md)
+* [README](README.md)
+  * [前言](readme/qian-yan.md)
+  * [友情链接](readme/you-qing-lian-jie.md)
 * [路德维希·凡·贝多芬](<README (1).md>)
   * [交响曲](lu-de-wei-xi-fan-bei-duo-fen/jiao-xiang-qu/README.md)
     * [降E大调第三交响曲](lu-de-wei-xi-fan-bei-duo-fen/jiao-xiang-qu/jiangeda-tiao-di-san-jiao-xiang-qu/README.md)
