@@ -2,7 +2,9 @@
 
 * [前言](README.md)
   * [说明](qian-yan/shuo-ming.md)
-  * [友情链接](qian-yan/you-qing-lian-jie.md)
+  * [友情链接](qian-yan/you-qing-lian-jie/README.md)
+    * [入门系列](qian-yan/you-qing-lian-jie/ru-men-xi-lie.md)
+    * [作曲家全集](qian-yan/you-qing-lian-jie/zuo-qu-jia-quan-ji.md)
 * [路德维希·凡·贝多芬](<README (1).md>)
   * [交响曲](lu-de-wei-xi-fan-bei-duo-fen/jiao-xiang-qu/README.md)
     * [降E大调第三交响曲 “英雄”](lu-de-wei-xi-fan-bei-duo-fen/jiao-xiang-qu/jiangeda-tiao-di-san-jiao-xiang-qu-ying-xiong/README.md)
